@@ -1,0 +1,8 @@
+.myhome img{
+    
+    height: 70vh;
+    object-fit: cover;
+}
+.myhome{
+    text-align: center;
+}
